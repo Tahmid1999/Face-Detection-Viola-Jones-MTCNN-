@@ -1,2 +1,2 @@
-# Face-Detection-Viola-Jones-MTCNN-
+# Face-Detection (Viola-Jones & MTCNN)
 Test
