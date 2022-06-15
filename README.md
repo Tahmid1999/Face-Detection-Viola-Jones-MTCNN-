@@ -23,5 +23,5 @@ In this program, I developed a  GUI to see a comparative performance between the
 Your machine should be installed with MatLab. To check this program with your webcam you may need to add on [MATLAB Support Package for USB Webcams](https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams). <br>
 Then run "MyGUI.m" file with MatLab. 
 
-See Full implanted working code from here –
+See Full working code video –
 https://drive.google.com/file/d/1f-NaeNnxedyLBhMDx-utd5TL84B3tVze/view?usp=sharing
