@@ -16,7 +16,7 @@ detect in real time. MTCNN consists of three neural network cascades, namely P-N
 face recognition on a unified scale, the original image should be scaled to different scales to form an image pyramid before 
 using these networks. 
 
-In this program, I developed a  GUI to see a comparative performance between these two algorithms of face detection. It is interesting because viola-jones is an image processing-based algorithm. On the other hand, MTCNN is a CNN-based algorithm. So it will be interesting. 
+In this program, I developed a  GUI to see a comparative performance between these two algorithms of face detection. It is interesting because viola-jones is an image processing-based algorithm. On the other hand, MTCNN is a CNN-based algorithm.
 
 ## How to run the program 
 
