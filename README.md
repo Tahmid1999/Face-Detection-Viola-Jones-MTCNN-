@@ -24,4 +24,4 @@ Your machine should be installed with MatLab. To check this program with your we
 Then run "MyGUI.m" file with MatLab. 
 
 See Full working code video –
-https://drive.google.com/file/d/1f-NaeNnxedyLBhMDx-utd5TL84B3tVze/view?usp=sharing
+https://drive.google.com/file/d/1vY3zD8d9IFvHcKA8Gaoyn7rVZVsODF50/view?usp=sharing
